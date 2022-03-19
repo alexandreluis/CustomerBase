@@ -35,7 +35,8 @@ Conda - License badge	/conda/l/:channel/:package
 
 
 # 8. How to Contribute to the Project
-submitting code, new tools, or suggestions;
-You can help me learn more about Java technology by inviting me to: do an internship, or participate in an open source project, or invite me to work on a non-profit project, or to join a volunteer project, or in an international project;
-donations through books, parts or money;
+submitting code, new tools, or suggestions;<br />
+You can help me learn more about Java technology by inviting me to: do an internship, or participate in an open source project,<br />
+ or invite me to work on a non-profit project, or to join a volunteer project, or in an international project;
+donations through books, parts or money;<br />
 * pray for me
