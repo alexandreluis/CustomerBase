@@ -19,5 +19,4 @@ public class CustomerBase
     {
         // TODO code application logic here
     }
-    
 }
