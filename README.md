@@ -31,13 +31,13 @@ GPL License
 
 
 # 7. Badges
-Conda - License badge	/conda/l/:channel/:package
-
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 # 8. How to Contribute to the Project
 submitting code, new tools, or suggestions;<br />
-You can help me learn more about Java technology by inviting me to: do an internship,<br />
- or participate in an open source project, or invite me to work on a non-profit project,<br />
- or to join a volunteer project, or in an international project;<br />
+You can help me learn more about Java technology by inviting me to: do an internship, or participate in an open source project,<br />
+ or invite me to work on a non-profit project, or to join a volunteer project, or in an international project;
 donations through books, parts or money;<br />
 * pray for me
