@@ -66,4 +66,7 @@ public abstract class Person
     {
         this.language = language;
     }
+
+    @Override
+    public abstract String toString();
 }
