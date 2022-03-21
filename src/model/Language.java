@@ -11,5 +11,6 @@ package model;
  */
 public class Language
 {
-    
+    private int languageId;
+    private String languageName;
 }
