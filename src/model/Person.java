@@ -26,4 +26,44 @@ public abstract class Person
         this.personCPF = personCPF;
         this.language = language;
     }
+
+    public String getPersonName()
+    {
+        return personName;
+    }
+
+    public void setPersonName(String personName)
+    {
+        this.personName = personName;
+    }
+
+    public int getPersonAge()
+    {
+        return personAge;
+    }
+
+    public void setPersonAge(int personAge)
+    {
+        this.personAge = personAge;
+    }
+
+    public int getPersonCPF()
+    {
+        return personCPF;
+    }
+
+    public void setPersonCPF(int personCPF)
+    {
+        this.personCPF = personCPF;
+    }
+
+    public Language getLanguage()
+    {
+        return language;
+    }
+
+    public void setLanguage(Language language)
+    {
+        this.language = language;
+    }
 }
